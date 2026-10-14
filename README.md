@@ -1,5 +1,8 @@
 Sistema que implementa una API REST con Flask, autenticación segura con contraseñas hasheadas y persistencia de datos en SQLite.
 
+
+## REPOSITORIO -->  https://github.com/leonardofvp/PFO2-PREDES/blob/main/README.md <--
+
 ## 🚀 Instrucciones para ejecutar el proyecto
 
 ### 1. Requisitos previos
