@@ -1,4 +1,4 @@
-# PFO2 - Sistema de Gestión de Tareas con API y Base de Datos
+<img width="1088" height="262" alt="image" src="https://github.com/user-attachments/assets/9881cad0-92de-4890-a260-3bb54cd8aaf0" /># PFO2 - Sistema de Gestión de Tareas con API y Base de Datos
 
 Sistema que implementa una API REST con Flask, autenticación segura con contraseñas hasheadas y persistencia de datos en SQLite.
 
@@ -38,3 +38,4 @@ Cero configuración (Serverless): No requiere instalar ni configurar un servidor
 Ligero y Portátil: Es ideal para aplicaciones de tamaño pequeño a mediano, prototipos o entornos de desarrollo, ya que consume mínimos recursos.
 Persistencia sencilla: Facilita el respaldo y la migración, ya que solo es necesario copiar el archivo .db para tener toda la información.
 
+<img width="1093" height="241" alt="image" src="https://github.com/user-attachments/assets/772c8751-ba76-4fdd-93f6-64685bcb3ef8" />
